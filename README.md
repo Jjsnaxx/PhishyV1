@@ -42,7 +42,7 @@ Answer: http://securedocument.net/secure/L0GIN/protected/login/portal/axCBhIt.pn
 
 Q3. What is the name of the PHP page which will process the stolen credentials? (3 points)
 
-View page source.
+- View page source.
 <img src="https://i.imgur.com/sGGmuYE.png" height="80%" width="80%" alt="after.jpg"/>
 
 - Next to form action we can see the php page.
