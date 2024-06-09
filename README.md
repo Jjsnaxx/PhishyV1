@@ -1,4 +1,4 @@
-![image](https://github.com/Jjsnaxx/PhishyV1/assets/140260457/249d15fa-6b6f-467d-a7bf-effcb96e9bb4)<h2>Investigation - PhishyV1</h2>
+<h2>Investigation - PhishyV1</h2>
 
 
 <h2>Scenario:</h2>
